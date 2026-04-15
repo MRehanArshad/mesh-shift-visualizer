@@ -3,8 +3,7 @@
 A full-stack interactive web application that simulates and visualizes the parallel computing circular q-shift operation on a 2D mesh topology.
 
 ## 🚀 Live Deployment
-**Live URL:** [Insert Live Deployment URL Here] 
-> **Note to student:** Please replace the bracketed text above with your final Vercel or Netlify link before your submission grading.
+**Live URL:** [https://mesh-shift-visualizer-alpha.vercel.app/](https://mesh-shift-visualizer-alpha.vercel.app/)
 
 ## 📖 Background & Problem Statement
 In parallel computing, a circular q-shift is a fundamental permutation operation where node `i` transfers its data to node `(i + q) mod p`. On a 2D mesh topology, this algorithm is executed efficiently in two distinct phases:
